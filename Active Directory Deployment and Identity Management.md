@@ -1,4 +1,4 @@
-# Active Directory Deployment and Identity Management
+# Active Directory Deployment and Identity Management Lab
 
 ## Overview
 This lab focuses on deploying a structured Active Directory environment that models a multi-regional enterprise organization. The implementation emphasizes proper Organizational Unit (OU) design, identity management, and group-based access control by organizing users, computers, and servers across regional and departmental boundaries. The lab demonstrates foundational Active Directory administration practices used in real-world IT and cybersecurity environments, including standardized naming conventions, security group management, and scalable domain organization.
