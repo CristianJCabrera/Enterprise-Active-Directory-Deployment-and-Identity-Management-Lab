@@ -1,13 +1,13 @@
 # Project Tasks
 
-## I. Create Organizational Units (OUs)
+### I. Create Organizational Units (OUs)
 
 Create the following top-level OUs to represent company regions:
 - USA
 - Europe
 - Asia
 
-## II. Create Security Groups 
+### II. Create Security Groups 
 
 Within each regional OU, create the following groups:
 
