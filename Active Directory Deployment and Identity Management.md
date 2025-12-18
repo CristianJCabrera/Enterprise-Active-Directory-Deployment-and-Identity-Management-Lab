@@ -113,6 +113,7 @@ In Progress...
 
 ## References
 
-- https://www.youtube.com/watch?v=GsmJowwIh8Q&list=PLAdEnQWAAbfXMY2D4HVZOe-ChfTKmaJfQ
+- East Charmer. *Installing Active Directory on Windows Server on Virtual Machine (Home Lab) (Ep. 1)*. YouTube. https://www.youtube.com/watch?v=GsmJowwIh8Q&list=PLAdEnQWAAbfXMY2D4HVZOe-ChfTKmaJfQ
+
 
 
